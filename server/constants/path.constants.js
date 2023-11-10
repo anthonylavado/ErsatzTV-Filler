@@ -59,6 +59,7 @@ const DEFAULT_CONFIG = {
   "audiolanguage": "en",
   "theme": "SystemLight",
   "processweather": "yes",
+  "weatherunits: "",
   "generate_weatherv4": "no",
   "weathervideofadeoutduration": "5",
   "weathervideofadeinduration": "5",
